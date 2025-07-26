@@ -1,12 +1,19 @@
-# React + Vite
+# 🎉 Happy Birthday, Slave! 🎉
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here it is: your very own ridiculous birthday website.  
+Made with questionable coding skills, a lot of sarcasm, and just enough love to make you uncomfortable.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🐈 What you’ll find here
 
-## Expanding the ESLint configuration
+- My birthday wishes and a cameo from Maki
+- A silly little game 
+- A handful of random “wisdom pills” full of sarcasm and bad advice
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ⚙️ Tech stack
+
+- [React](https://react.dev) + [Vite](https://vitejs.dev)  
+- Deployed on GitHub Pages
